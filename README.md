@@ -44,7 +44,7 @@ Response your commands with cool thumbnails on the chat.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Music-BOT)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/Music-BOT)
 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/jankarikiduniya/Music-BOT&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
 
