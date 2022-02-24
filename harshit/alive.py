@@ -40,25 +40,25 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://te.legra.ph/file/a6205dbd405a78259ba5d.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
-ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
+❤️ 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐓𝐬𝐠 𝐌𝐮𝐬𝐢𝐜 𝐛𝐨𝐭 𝐟𝐮𝐥𝐥𝐲 𝐚𝐧𝐭𝐢𝐥𝐚𝐠 𝐚𝐧𝐝 𝐬𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐦𝐮𝐬𝐢𝐜 𝐛𝐨𝐭
+𝐅𝐨𝐫 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐠𝐫𝐨𝐮𝐩𝐬❤️💝 ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [Asᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ᴜᴘᴅᴀᴛᴇs : [Aʟᴇxᴀ Sᴇʀᴠᴇʀ](https://t.me/AsadSupport)
-┣★ sᴜᴘᴘᴏʀᴛ : [Aʟᴇxᴀ Cʜᴀᴛ](https://t.me/Shayri_Music_Lovers)
-┣★ ᴏᴡɴᴇʀ › : [Mʏ ʙʀᴏ](https://t.me/HarshitSharma361)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [Aman](https://t.me/itzamanrajput)
+┣★ ᴜᴘᴅᴀᴛᴇs : [Channel](https://t.me/itsamanrajput)
+┣★ sᴜᴘᴘᴏʀᴛ : [Tsg Chat](https://t.me/Friends_Chatting_Group3)
+┣★ ᴏᴡɴᴇʀ › : [Tsg group owner](https://t.me/An_innocent_boy)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Dr_Asad_Ali) ...
+ᴅᴍ ᴛᴏ ᴍʏ [𝐌𝐮𝐬𝐢𝐜 𝐛𝐨𝐭 𝐨𝐰𝐧𝐞𝐫](https://t.me/Itzamanrajput) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
    reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/Asad_Music_Bot?startgroup=true")
+                        "➕ ❰ 𝐀𝐝𝐝 𝐓𝐬𝐠 𝐦𝐮𝐬𝐢𝐜 𝐛𝐨𝐭 𝐓𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/Music_tsgbot?startgroup=true")
                 ]
                 
            ]
@@ -66,16 +66,16 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "Alexa"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "Tsg"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b92ed11ca9259ec96aaee.jpg",
+        photo=f"https://te.legra.ph/file/a6205dbd405a78259ba5d.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/Shayri_Music_Lovers")
+                        "❤️ 𝐉𝐨𝐢𝐧 𝐡𝐞𝐫𝐞 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐠𝐫𝐨𝐮𝐩 💞", url=f"https://t.me/Friends_Chatting_Group3")
                 ]
             ]
         ),
@@ -85,13 +85,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b92ed11ca9259ec96aaee.jpg",
+        photo=f"https://te.legra.ph/file/9ba3f9f51ac8958f1b61f.mp4",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Dr_Asad_Ali")
+                        "🥀 𝒄𝒍𝒊𝒄𝒌 𝒎𝒆 𝒕𝒐 𝑮𝒆𝒕 𝒓𝒆𝒑𝒐 💞", url=f"https://t.me/itzamanrajput")
                 ]
             ]
         ),
