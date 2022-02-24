@@ -114,7 +114,7 @@ async def play(_, message: Message):
     global que
     global useer
     
-    lel = await message.reply("**🔎 Sᴇᴀʀᴄʜɪɴɢ ...**")
+    lel = await message.reply("**🔍 𝐓𝐬𝐠 𝐌𝐮𝐬𝐢𝐜 𝐬𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 ❤️ ...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -378,7 +378,7 @@ async def skip(_, message: Message):
 
     await message.reply_photo(
                              photo="https://te.legra.ph/file/d84623c03dcd228f29f29.jpg", 
-                             caption=f'**💥 Aʟᴇxᴀ 🔈 ᴍᴜsɪᴄ 🤞ɴᴏᴡ 🥀\n⏩ sᴋɪᴘᴘᴇᴅ 🌷 ...**'
+                             caption=f'**💥 𝐓𝐬𝐠 🔈 𝐌𝐮𝐬𝐢𝐜 🤞𝐍𝐨𝐰 🥀\n⏩ 𝐬𝐤𝐢𝐩𝐩𝐞𝐝 🥰 ...**'
    ) 
 
 
