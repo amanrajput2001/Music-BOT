@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/b92ed11ca9259ec96aaee.jpg",
     "description": "Alexa Is A Powerful, Smart And Simple Music Bot.",
     "keywords": ["music", "voice chat", "music bot", "telegram"],
-    "repository": "https://github.com/jankarikiduniya/Music-BOT",
+    "repository": "https://github.com/amanrajput2001/Music-BOT",
     "stack": "container",
     "env": {
         "API_ID": {
